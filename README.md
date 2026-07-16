@@ -47,7 +47,6 @@ Urban-Heat-Island-Analysis-Using-GEE-QGIS
 ├── Maps/                # Final thematic maps
 ├── Python/              # Python scripts used for analysis
 ├── QGIS_Project/        # QGIS project files
-├── Raster_Data/         # Exported raster datasets
 ├── Report/              # Project report (DOCX/PDF)
 ├── Screenshots/         # Workflow and implementation screenshots
 └── README.md
